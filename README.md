@@ -1,2 +1,2 @@
 # eddge
-edgeledger101.netlify.app
+https://edgeledger101.netlify.app
